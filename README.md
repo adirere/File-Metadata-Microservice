@@ -1,6 +1,10 @@
 
 # API Project: File Metadata Microservice for freeCodeCamp
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-filemetadata)](https://repl.it/github/freeCodeCamp/boilerplate-project-filemetadata)
+
+Project page: [click here](https://glitch.com/~api-file-metadata-microservice-fcca)
+
+Live app: [click here](https://api-file-metadata-microservice-fcca.glitch.me)
+
 ###    User stories:
 1. I can submit a form that includes a file upload.
 2. The form file input field has the `name` attribute set to `upfile`.
